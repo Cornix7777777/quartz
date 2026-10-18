@@ -1,6 +1,10 @@
 ---
-title: Welcome to Quartz
+title: Jul's Note Compilation
 ---
+# NMAT
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+[[PHYSICS.canvas]]
+
+
+# MED
+[[PCOL MAIN PAGE.canvas]]
