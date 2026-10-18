@@ -11,7 +11,7 @@
 		{"id":"530642e48e980b08","type":"text","text":"Anti-MUSCARINIC\nAnti-NICOTINIC: \n-Neuromuscular junction blocker (Depolarizing, NONdepolarizing)\n-Gangionic blockers","x":840,"y":124,"width":600,"height":130},
 		{"id":"37839557d9df229f","type":"text","text":"SYMPA","x":420,"y":-221,"width":115,"height":60},
 		{"id":"d66e01c7d4880d4d","type":"text","text":"PARASYMPA","x":420,"y":89,"width":143,"height":60},
-		{"id":"a4c24cc2e8af44bf","type":"file","file":"PCOL/PCOL NOTES/ANS.md","x":-100,"y":-101,"width":400,"height":130,"color":"6"}
+		{"id":"a4c24cc2e8af44bf","type":"file","file":"MED/PCOL/PCOL NOTES/ANS.md","x":-100,"y":-101,"width":400,"height":130,"color":"6"}
 	],
 	"edges":[
 		{"id":"f5a8c804b1579d1a","fromNode":"082cf844a2db3a3e","fromSide":"bottom","toNode":"a4c24cc2e8af44bf","toSide":"left"},

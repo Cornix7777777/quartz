@@ -3,7 +3,7 @@ title: Jul's Note Compilation
 ---
 # NMAT
 
-[[PHYSICS.canvas]]
+N/A
 
 
 # MED
