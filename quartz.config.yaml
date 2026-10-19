@@ -77,12 +77,6 @@ plugins:
   - source: "@quartz-community/github-flavored-markdown"
     enabled: true
     order: 40
-  - source: "@quartz-community/table-of-contents"
-    enabled: true
-    order: 50
-    layout:
-      position: right
-      priority: 30
   - source: "@quartz-community/crawl-links"
     enabled: true
     options:
@@ -113,7 +107,7 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: default
+      theme: shimmering-focus
       mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
@@ -281,6 +275,19 @@ plugins:
       minZoom: 0.1
       maxZoom: 5
     order: 50
+  - source: github:quartz-community/table-of-contents
+    enabled: true
+    options:
+      maxDepth: 3
+      minEntries: 1
+      showByDefault: true
+      collapseByDefault: false
+      layout: modern
+    order: 50
+    layout:
+      position: right
+      priority: 50
+  
 layout:
   groups:
     toolbar:

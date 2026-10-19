@@ -80,7 +80,187 @@ Sites: brain, adrenal medulla postganglionic sympha fibers
 | S**N**Ri: Reboxetine<br>**C**ocaine<br>**T**CA: Amytriptyline<br>**M**ethylphenidate<br>**M**odafinil | "MPITS"<br><br>**M**oclobemide<br>**P**henelzine<br>**I**socarboxazid<br>**T**ranylcypromine<br>**S**elegiline | "-capone"<br><br>Entacopone<br>Tolcapone |
 
 ## B. Receptors
-## C. Agonists
-## D. Antagonists
+
+| Receptor | g-protein | Effects                                                                                                                                                                                                                               |
+| -------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| α1       | Gq        | - Dominant in blood vessels = (+) vasoCONSTRICTION<br>- Mydriasis = (+) Dilation<br>- Urinary retention (CLOSE sphincter, RELAX detrusor)<br>- Piloerection (Goosebumps)                                                              |
+| α2       | Gi        | ![[Pasted image 20261019124458.png]]                                                                                                                                                                                                  |
+| β1       | Gs        | HEART:<br>(+) Inotropic<br>(+) Chronotropic - ↑HR<br>(+) Dromotropic - ↑CV<br><br>Renin release: ↑RAAS activity                                                                                                                       |
+| β2       | Gs        | LUNGs:<br>(+) bronchoDILATION<br>(+) vasoDILATION<br><br>(+) uterine RELAXATION (Tocolytic effect)<br><br>Others:<br>Tremors, intracellular $K^+$ shift (influx into cell), <br>Glucose homeostasis (Glycogenolysis, Gluconeogenesis) |
+| β3       | Gs        | Burn fat (Lipolysis)<br>Brown fat (Thermogenesis use)<br>Bladder RELAXATION                                                                                                                                                           |
+
+## C. Sympathomimetics (Sympa Agonist)
+
+| DIRECT                                                                                                                                                      | INdirect                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| NONselective: Epi, NE, DA<br><br>SELECTIVIE:<br>α1 = "POTPM"<br>α2 = "ABCDMGG"<br>β = Isoproterenol<br>β1 = Dobutamine<br>β2 = SABA, LABA<br>β3 = "-begron" | (+) Release NE: "AETAPPP"<br><br>(-) Reuptake NE: "NCTMM" |
+### 1. Direct-Acting
+MOA: Directly bind receptors = effect
+a) Selective
+b) NON-selective
+
+#### a) NON-Selective
+
+| PKINECTIS                                                                                                                                                                                  | PDYNAMICS                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
+| Poor oral absorption<br>- acid labile<br>- ↑↑↑First Pass Effect<br>- limit own absorption<br><br>Metabolism: COMT, MAO<br>Epi, NE → Vanillylmandelic acid (VMA) <br>DA → Homovanillic acid | LOW doses: β receptors<br>HIGH doses: β and α<br><br>Epi: β1, β2, α1<br>NE: β1, α1<br>DA: D1, β, α1 |
+
+| DRUGS              | Classification                    | MOA        | Indication                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------ | --------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Epinephrine**    | NON-selective,<br>DIRECT, Agonist | β1, β2, α1 | **1st line cardiac stimulant for cardiac arrest** (HR = 0)<br>WTD? ACLS or<br>Advanced cardiac life support<br>- Chest compression<br>- Epi 1mg every 3-5 mins<br>- Airway support<br><br>**1st line inotropic agent for ANAPHYLACTIC shock** <br>(Histamine = ↓BP)<br>Note: Stabilize mast cells (prevent His release)<br><br>**Local vasoconstriction**<br>ex. prevent spread of vasodilation to other body parts (Local anesthetics)<br><br>Dipivefrin (Prodrug of Epi):<br>Glaucoma mgt. |
+| **Norepinephrine** | NON-selective,<br>DIRECT, Agonist | β1, α1     | **1st line inotropic agent for SEPTIC shock** <br>(Infection = cytokines = <br>(+) vasodilation = ↓BP)                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Dopamine**       | NON-selective,<br>DIRECT, Agonist | D1, β, α1  | **Alt. inotrope for shock**<br>WOF: Tachyarrhythmia                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+DOPAMINE DOSES:
+
+| <5 mcg/kg/min                                           | 5-10 mcg/kg/min                                       | >10 mcg/kg/min              |
+| ------------------------------------------------------- | ----------------------------------------------------- | --------------------------- |
+| D1 receptor<br><br>(+) vasoDILATION (kidneys)<br>= ↑GFR | B1 receptor<br><br>(+) ino<br>(+) chrono<br>(+) dromo | a1 receptor<br><br>(+) vaso |
+#### b) Selective 
+
+##### a1 agonists
+- **P**henylephrine
+- **O**xymetazoline
+- **T**etrahydrozoline
+- **P**ropylhexedrine
+- **M**ethoxamine 
+
+| DRUGS                | Classification | MOA                    | Indication                                                                                   | ADR                                                                  |
+| -------------------- | -------------- | ---------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| **Phenylephrine**    | a1 agonist     | nasal vasoconstriction | **Nasal decongestant**<br>(tissue shrinkage = better drainage)<br><br>Mydriatic for eye exam | WOF: **rhinitis medicamentosa**<br>(+) rebound congestion<br>(+) ↑BP |
+| **Oxymetazoline**    | a1 agonist     | nasal vasoconstriction | Nasal decongestant                                                                           |                                                                      |
+| **Tetrahydrozoline** | a1 agonist     |                        | Conjunctivitis "sore eyes"<br>(redness from vasodilation)                                    |                                                                      |
+
+> [!Danger] General ADR
+> WOF: 
+> (+) urinary retention
+> (+) vasoconstriction (fingers) 
+> - *"Raynaud's phenomenon"*: change finger color
+
+##### a2
+- **A**praclonidine
+- **B**rimonidine
+- **C**lonidine
+- **D**exmedetomidine 
+- **M**ethyldopa
+- **G**uanfacine
+- **G**uanabez
+
+| DRUGS                          | Classification | MOA                                                                     | Indication                                                                                                   | ADR                                                                                                                                     |
+| ------------------------------ | -------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **Apraclonidine, Brimonidine** | a2 agonist     |                                                                         | Glaucoma                                                                                                     |                                                                                                                                         |
+| **Dexmedetomidine** (Precedex) | a2 agonist     |                                                                         | Sedative for intubated px                                                                                    |                                                                                                                                         |
+| **Guanfacine**, **Guanabenz**  | a2 agonist     |                                                                         | sympathoplegic HTN use                                                                                       |                                                                                                                                         |
+| **Methyldopa** (Aldomet)       | a2 agonist<br> | Fake neurotransmitter:<br><br>Converted to methyl-NE (no sympha effect) | **anti HTN during pregnancy** <br><br>(**M**ethyldopa<br>**H**ydralazine<br>**L**abetalol<br>**N**ifedipine) | WOF: (+) hepatotoxicity > 2g/day<br><br>(+) **false positive coomb's test**<br>(hemolytic anemia)<br><br>(+) sedation<br>(+) depression |
+| **Clonidine**                  | a2 agonist<br> |                                                                         | **anti HTN during HTN urgency**,<br>anti HTN during dialysis,<br>alt vs ADHD                                 | **Rebound hypertension**                                                                                                                |
+
+| HTN emergency                                                              | HTN urgency                          |
+| -------------------------------------------------------------------------- | ------------------------------------ |
+| End organ damage:<br>MI<br>Stroke<br>Eclampsia<br>Intracerebral Hemorrhage | Asymptomatic<br>Markedly elevated BP |
+
+
+##### B NON-selective
+| DRUGS             | Classification            | MOA                     | Indication                                                               | ADR                                                                                            |
+| ----------------- | ------------------------- | ----------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| **Isoproterenol** | B NONselective<br>agonist | synthetic catecholamine | **1st drug used as MDI** (metered dose inhaler) **for bronchial asthma** | WOF:<br>Tachyphylaxis<br>(Rapid development of tolerance = ↓effect)<br><br>(+) Tachyarrhythmia |
+
+##### B1 agonist
+| DRUGS      | Classification | MOA | Indication                                                                  | ADR                     |
+| ---------- | -------------- | --- | --------------------------------------------------------------------------- | ----------------------- |
+| Dobutamine | B1 agonist     |     | **1st inotropic agent for CARDIOGENIC shock**,<br>Pharmacologic stress test | WOF: (+)Tachyarrhythmia |
+
+##### B2 agonist
+
+| SABA                      | LABA                                                                                |
+| ------------------------- | ----------------------------------------------------------------------------------- |
+| Salbutamol<br>Terbutaline | "BIFS"<br><br>**B**ambuterol<br>**I**ndacaterol<br>**F**ormeterol<br>**S**almeterol |
+
+| DRUGS                                                                                  | Classification                       | MOA | Indication                                                            | ADR                                                                     |
+| -------------------------------------------------------------------------------------- | ------------------------------------ | --- | --------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| **Salbutamol** (BP)/<br>**Albutarol** (USP)                                            | SABA                                 |     | **1st-line reliever for asthma exacerbation**,<br>Tx for HYPERkalemia | WOF:<br>(+)Tremors,<br>(+)Tachycardia,<br>(+)HYPOkalemia                |
+| **Terbutaline**                                                                        | SABA                                 |     | **Uterine relaxation** (for preterm labor)                            | avoid if:<br>HYPERthyroidism,<br>Diabetes mellitus                      |
+| **Formoterol** + Budesonide (Symbicort)<br><br>**Salmeterol** + Fluticasone (Seretide) | LABA + ICS (inhaled corticosteroids) |     | **Controller for COPD**                                               | WOF: (due to steroids)<br>**oral thrush**/candidiasis,<br>vocal nodules |
+
+> [!info] Tocolytic agents
+> "Martina"
+> 
+> **M**g$SO_4$: block $Ca^{2+}$
+> **R**itodrine: B2 agonist
+> **T**erbutaline: B2 agonist
+> **I**soxsuprine: B2 agonist
+> **N**ifedipine: CCB
+> **A**tosiban: oxytocin (-)
+
+
+##### B3 agonist
+"-begron"
+
+| DRUGS                    | Classification | MOA | Indication                                                       | ADR |
+| ------------------------ | -------------- | --- | ---------------------------------------------------------------- | --- |
+| **Mirabegron, Vibegron** | B3 agonist     |     | bladder relaxation,<br>for OAB (**overactive bladder syndrome**) |     |
+
+### 2. Indirect Acting
+| DRUGS                               | Classification   | MOA                                                                           | Indication                      | ADR                        |
+| ----------------------------------- | ---------------- | ----------------------------------------------------------------------------- | ------------------------------- | -------------------------- |
+| **Ephedrine**<br>(Ma Huang)         | Indirect agonist | Directly bind to a & B,<br>(+)release of NE<br><br>Less affected by MAO, COMT | Intraoperative hypotension      | WOF:<br>↑BP                |
+| **Methylphenidate**                 | Indirect agonist | CNS acting                                                                    | **1st-line ADHD**               |                            |
+| **Modafinil**                       | Indirect agonist | CNS acting                                                                    | **Narcolepsy**                  |                            |
+| **Amphetamine**, **Metamphetamine** | Indirect agonist | CNS acting                                                                    | Anorexiant                      | WOF:<br>Addiction          |
+| **Phenmetrazine**                   | Indirect agonist | CNS acting                                                                    | Anorexiant                      |                            |
+| **Phentermine**                     | Indirect agonist | CNS acting                                                                    | Anorexiant                      | WOF:<br>Pulmonary HTN      |
+| **Phenylpropanolamine**             | Indirect agonist | CNS acting                                                                    | Anorexiant,<br>Cold preparation | WOF:<br>Hemorrhagic stroke |
+
+
+## D. Symphatolytics/Antagonists
+### a blockers
+
+| NONselective                                                                                                | Selective                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **Phenoxybenzamine**<br>- irreversible, noncompetitive<br><br>**Phentolamine**<br>- reversible, competitive | a1-blockers:<br>**Prazosin<br>Terazosin<br>Doxazosin<br>Tamsulosin**<br><br>a2-blockers:<br>**Yohimbine<br>Rauwolfscine** |
+
+| Uses                                                                     |                                                                                                                                                                                    |
+| ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1) Managing pheochromocytoma                                             | Tumor in adrenal medulla = ↑Epi = (+)secondary HTN<br><br>Dx: CT scan of adrenal gland vanillylmandelic acid assay<br><br>WTD? Surgery + medical therapy (a1-blockers, B-blockers) |
+| 2) Mgt Raynaud's syndrome                                                | (+)vasoCONSTRICTION<br><br>if ischemic, severe pain: a-blocker, CCB                                                                                                                |
+| 3) Relieve urinary retention, <br>**BPH** (benign prostatic hyperplasia) | Hyperplasia = ↑no of cells = urinary retention<br>Tx: **Tamsulosin** (a-blocker)                                                                                                   |
+| 4) mgt erectile dysfuntion                                               | tx **Phentolamine**                                                                                                                                                                |
+| 5) tx carcinoid syndrome                                                 | enterochromaffin-like tumor cells = ↑5-HT<br>(+)watery diarrhea<br>(+)Flushing<br>(+)Headache<br><br>tx **Phenoxybenzamine**, (-)5-HT                                              |
+
+> [!danger] General ADR
+> 1ST DOSE PHENOMENON
+> a1-blocker: **orthostatic/postural hypotension**
+> WTD? Give at bedtime, start at low doses
+
+### B-blockers
+
+| NON-selective                                                                | Cardio selective                                                                                                                                                                                |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| (-) B1<br>(-) B2                                                             | (-) B1                                                                                                                                                                                          |
+| **N**adolol<br>**S**otalol<br>**T**imolol<br>**P**indolol<br>**P**ropranolol | **C**eliprolol<br>**N**ebivolol (nitric oxide, mediated vasodilation)<br>**B**isoprolol<br>**B**etaxolol<br>**E**smolol (ultra shot acting)<br>**A**tenolol<br>**A**cebutalol<br>**M**etoprolol |
+| Use in BA/COPD: XXX                                                          | Use in BA/COPD: Yes (use w/ caution)                                                                                                                                                            |
+
+| Specific Property                     |                                                                                              | Drugs                                                                                               |
+| ------------------------------------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| w/ Intrinsic sympathomimetic activity | Similar to partial agonist,<br>Avoided in px w/ HYPERthyroidism,<br>LESS rebound tachycardia | "CLAP"<br><br>**C**arteolol<br>**L**abetalol<br>**A**cebutalol<br>**P**indolol                      |
+| w/ membrane-stabilizing activity      | Similar to local anesthetics,<br>Avoided in eye preparation                                  | "PPALM"<br><br>**P**indolol<br>**P**ropranolol<br>**A**cebutolol<br>**L**abetalol<br>**M**etoprolol |
+| Mixed a & B blocker                   |                                                                                              | "CL"<br><br>**C**arvedilol<br>**L**abetalol                                                         |
+
+| Cardiac Uses                                                                           | NONcardiac Uses                                                                                        |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Mgt. HTN (post MI px)<br><br>↓Renin and ↓RAAS activity,<br>↓Heart workload             | **Propranolol**:<br>-migraine prophylaxis<br>-mgt HYPERthyroidism<br>-mgt performance anxiety disorder |
+| Heart failure<br><br>**Bisoprolol**, **Carvedilol** (↓CHF mortality)<br>**Metoprolol** | **Timolol**, **Betaxolol**<br>-mgt glaucoma                                                            |
+| Angina pectoris<br>(Stable ischemic heart disease)                                     |                                                                                                        |
+| Anti-arrhythmias<br>(Class II)                                                         |                                                                                                        |
+> [!danger] General ADR
+> WOF: ↓BP, ↓HR
+> Heart block, *masks symptoms of hypoglycemia*
+> 
+
+> [!danger] AVOID
+> Sudden discontinuation: rebound tachycardia
+> Decompensated heart failure/unstable
+> Peripheral arterial occlusive disease
+> Concurrent use with NON-DHP CCB 
+
 
 # PARA

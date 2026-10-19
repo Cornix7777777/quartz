@@ -6,6 +6,12 @@
       "resolved": "https://github.com/quartz-community/canvas-page.git",
       "commit": "8699230b7728cdd0a0ae3603c7ba18f48d3d55a4",
       "installedAt": "2026-10-18T11:05:15.938Z"
+    },
+    "table-of-contents": {
+      "source": "github:quartz-community/table-of-contents",
+      "resolved": "https://github.com/quartz-community/table-of-contents.git",
+      "commit": "88526540fc899656ade476a11985359fd812bc8a",
+      "installedAt": "2026-10-19T03:07:57.372Z"
     }
   }
 }

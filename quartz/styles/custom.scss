@@ -1,3 +1,25 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+@use "themes";
+
+
+// Indent wrapped lines for page names in the Explorer 
+div.explorer {
+  li {    // Indent wrapped lines for every entry in the list
+    margin-left: 0.5rem;
+    text-indent: -0.5rem;
+    div { // unless it has a child list (making it a folder)
+      margin-left: 0;
+      text-indent: 0;
+    }
+  }
+}
+ 
+// Indent wrapped lines for sections in the ToC
+div.toc {
+  li {
+    margin-left: 0.5rem;
+    text-indent: -0.5rem;
+  }
+}

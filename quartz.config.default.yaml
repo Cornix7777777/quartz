@@ -105,6 +105,7 @@ plugins:
     options:
       theme: tokyo-night
       mode: both
+      
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
