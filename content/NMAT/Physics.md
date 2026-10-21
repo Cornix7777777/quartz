@@ -102,6 +102,7 @@ The trapezoid formula also works tho:
 | flat                 | x = constant,<br>v = 0 | v = constant (uniform motion),<br>a = 0 |
 | Left/backward        | ↓x,<br>v = (-)         | ↓v,<br>a = (-)                          |
 | Patusok/Spike        | Change in direction    |                                         |
+
 ![[Pasted image 20261020170937.png]]
 ![[Pasted image 20261020171501.png]]
 ![[Pasted image 20261020173523.png]]
