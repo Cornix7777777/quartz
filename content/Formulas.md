@@ -32,7 +32,7 @@ $$
 $$
 d^{\rightharpoonup}=v_{i}t+\frac{1}{2}at^{2}
 $$
--
+-------------
 Motion of Falling Objects:
 where g = 10 m/s2
 $$
@@ -44,3 +44,4 @@ $$
 $$
 h=v_{i}t+\frac{1}{2}gt^{2}
 $$
+-------------
