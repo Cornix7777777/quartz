@@ -74,12 +74,60 @@ No computation, just understand concept
 | - Vector quantity describing velocity at **specific instant**<br><br>- 1st derivative of x (position) w/ respect to t (time) given that there is a position function x(t) | 2nd derivative of x (position) w/ respect to t (time) given that there is a position function x(t) <br><br>OR<br><br>1st derivative of velocity function |
 
 ## Motion Graphs
-
 ### Slope and Area
-### 1. Displacement vs Time
+![[Pasted image 20261020151914.png]]
+### 1. Displacement (x) vs Time
+![[Pasted image 20261020153313.png]]![[Pasted image 20261020160905.png]]
+![[Pasted image 20261020162251.png]]
+![[Pasted image 20261020162608.png]]
 ### 2. Velocity vs Time
+![[Pasted image 20261020154308.png]]
+The trapezoid formula also works tho:
+((base 1 + base 2)/2) times h
+
+![[Pasted image 20261021160326.png]]
+
 ### 3. Acceleration vs Time
+![[Pasted image 20261020155608.png]]
+### Summary
+
+|       | Displacement (x) vs Time | v vs t                     | a vs t                             |
+| ----- | ------------------------ | -------------------------- | ---------------------------------- |
+| Slope | Velocity (m/s)           | Acceleration <br>($m/s^2$) | Jerk/jolt or nothing/none of these |
+| Area  | Nothing/none of these    | Displacement<br>(m)        | Velocity (m/s)                     |
+
+| Line/slope direction | x vs t                 | v vs t                                  |
+| -------------------- | ---------------------- | --------------------------------------- |
+| right/upward         | ↑x,<br>v = (+)         | ↑v,<br>a = (+)                          |
+| flat                 | x = constant,<br>v = 0 | v = constant (uniform motion),<br>a = 0 |
+| Left/backward        | ↓x,<br>v = (-)         | ↓v,<br>a = (-)                          |
+| Patusok/Spike        | Change in direction    |                                         |
+![[Pasted image 20261020170937.png]]
+![[Pasted image 20261020171501.png]]
+![[Pasted image 20261020173523.png]]
 ### Speeding up vs Slowing down
+![[Pasted image 20261020162014.png]]
+![[Pasted image 20261020162103.png]]
+TLDR: if a and v are either **BOTH (+)** or **BOTH (-)**: **speeding up**
+If **otherwise** (v (-) while a (+) or vice versa): **slowing down**
+
+### Graphing Examples/Exercises
+TLDR: use slope formula to convert a set of points in d vs t
+into a point on v vs t
+![[Pasted image 20261020163721.png]]
+![[Pasted image 20261020163824.png]]
+![[Pasted image 20261020175726.png]]
+![[Pasted image 20261021163703.png]]
+### Word Problems
+![[Pasted image 20261021163754.png]]
+![[Pasted image 20261021163802.png]]
+![[Pasted image 20261021163815.png]]
+![[Pasted image 20261021163913.png]]
+![[Pasted image 20261021163832.png]]
+![[Pasted image 20261021163843.png]]
+![[Pasted image 20261021164141.png]]
+![[Pasted image 20261021164234.png]]
+![[Pasted image 20261021164252.png]]
 
 ## Rectilinear Motion
 
