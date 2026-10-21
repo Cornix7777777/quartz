@@ -1,3 +1,9 @@
+---
+title: Physics
+cssclasses:
+  - full-width-media
+---
+
 # Scalar vs Vector
 
 | Scalar                                                       | Vector                                                                                                                                                     |
