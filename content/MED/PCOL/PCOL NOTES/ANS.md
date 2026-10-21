@@ -263,4 +263,117 @@ DOPAMINE DOSES:
 > Concurrent use with NON-DHP CCB 
 
 
-# PARA
+# III. PARASYMPA
+## A. Biosynthesis
+Sites: Brain, preganglionic fibers, postganglionic para fibers, neuromuscular junction
+
+| Steps:                     |                                         | Enzyme/Others                   | Related substance              |
+| -------------------------- | --------------------------------------- | ------------------------------- | ------------------------------ |
+| #1<br>(Rate-Limiting Step) | Active uptake of choline                |                                 | Hemicholinium = <br>(-) uptake |
+| #2                         | Choline + AcetylCoA → Acetylcholine/Ach | Choline acetyl transferase/ChAT |                                |
+| #3                         | Vesicular uptake                        |                                 | Vesamicol = <br>(-) uptake     |
+| #4                         | Quantal release of Ach                  |                                 | Botulinum toxin = (-) release  |
+AChE/Acetylcholinesterase = breaks down ACh in synaptic cleft
+
+## B. Receptor
+
+| Muscarinic                                               | Nicotinic                                                                                                                                         |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| M1, (Gq)<br>M2, (Gi)<br>M3, (Gq)<br>M4, (Gi)<br>M5, (Gq) | Ionotropic<br><br>Nm (N1):<br>Neuromuscular junction,<br>Skeletal muscle contraction<br><br>Nn (N2):<br>Ganglion,<br>Effect depends on target<br> |
+
+| Muscarinic | Effect                                                                                                                                                                                                                                                                          |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| M1 (Gq)    | ↑$H^+$ secretion                                                                                                                                                                                                                                                                |
+| M2 (Gi)    | Vagotonic effect:<br>(-)chronotropic<br>(-)dromotropic                                                                                                                                                                                                                          |
+| M3 (Gq)    | Miosis = constriction<br><br>bronchoCONSTRICTION/Bronchospasm<br><br>↑Stomach acid secretion<br>(+)intestine peristalsis<br><br>(+)Urination<br>- contract detrusor<br>- open sphincter<br><br>(+)Erection "Point"<br><br>(+)Secretions:<br>- sweating, lacrimation, salivation |
+## C. Agonists
+#### 1. Direct-Acting 
+MOA: direct receptor binding = effect
+
+| Choline Ester                                                                                           | Alkaloid                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mixed (M and N)<br>**Carbachol<br>Acetylcholine<br>Methacholine**<br><br>Muscarinic <br>**Bethanechol** | Mixed (M and N)<br>**Arecoline**<br><br>Muscarinic<br>**Muscarine<br>Pilocarpine**<br><br>Nicotinic<br>**Lobeline<br>Varenicline<br>Nicotine** |
+
+| DRUGS                     | Classification                           | MOA           | Indication                                        |
+| ------------------------- | ---------------------------------------- | ------------- | ------------------------------------------------- |
+| **Methacholine**          | Choline Ester                            | Direct-Acting | **provocative challenge Test** (bronchial asthma) |
+| **Bethanechol**           | Choline Ester                            | Direct-Acting | Relieve urinary retention                         |
+| **Arecoline**             | Alkaloid,<br>Betel nut (*Areca catechu*) | Direct-Acting | Euphoriant                                        |
+| **Pilocarpine**           | Alkaloid,<br>(*Pilocarpus microphyllus*) | Direct-Acting | Xerostomia,<br>open angle glaucoma                |
+| **Varenicline, Nicotine** | Alkaloid                                 | Direct-Acting | **Smoking cessation**                             |
+
+### 2. Indirect-Acting
+MOA: (-)AChE = ↑ACh
+
+#### a) Short-acting
+<30 mins
+
+| DRUGS                      | Classification | MOA             | Indication                                            |
+| -------------------------- | -------------- | --------------- | ----------------------------------------------------- |
+| **Edrophonium** (Tensilon) | Short-acting   | Indirect-acting | Tx curare toxicity<br>Diagnosis for myasthenia gravis |
+
+> [!info] Myasthenia gravis
+> Antibodies vs ACh receptor
+> - Muscle weakness (late afternoon)
+> - ptosis
+> 
+>Dx: Edrophonium Test (Antibody detection)
+
+| Differentiate: | Myasthenia gravis | Cholinergic crisis |
+| -------------- | ----------------- | ------------------ |
+| CAUSE:         | UNDER-treatment   | OVER-treatment     |
+
+#### b) Intermediate-long acting
+<24 hrs
+
+| DRUGS                                  | Classification   | MOA                           | Indication                                                                                     |
+| -------------------------------------- | ---------------- | ----------------------------- | ---------------------------------------------------------------------------------------------- |
+| "-stigmine"                            | Carbamates       | Reversible AChE (-)           |                                                                                                |
+| **Physostigmine**                      | Tertiary amine   | CAN cross BBB cause unionized | **Myasthenia gravis tx**,<br>Mgt neurotransmitter blocker effects,<br>**Tx atropine toxicity** |
+| **Neostigmine**,<br>**Pyridostigmine** | Quaternary amine | Ionized                       |                                                                                                |
+#### c) Very long acting
+.> 24 hrs
+
+| DRUGS                                                                                                           | Classification   | MOA                                                                                                                | Indication                   | ADR                                     |
+| --------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------- | --------------------------------------- |
+| Insecticides:<br>**Malathion, Parathion**<br><br>Nerve gases:<br>**Sarin, Tabun, Soman**<br><br>**Ecothiopate** | Organophosphates | IRREVERSIBLE AChE (-)<br><br><24hrs: potentially reversible<br>>24hrs: irreversible due to aging of phosphate bond | **Ecothiopate**: Tx glaucoma | Cholinergic Toxicity<br>(**DUMBBELSS**) |
+DUMBBELSS: 
+**D**iarrhea, **U**rination, **M**iosis, **B**radycardia, **B**ronchoCONSTRICTION/spasm, **E**mesis,
+**L**acrimation, **S**alivation, **S**weating
+
+> [!Info] Glaucoma
+> Death of optic nerve due to ↑Intraocular pressure 
+> = ↑aq. humor (↑production, ↓drainage)
+> 
+> WOF: Tunnel vision, Blindness
+> Types: Open-angle, narrow-angle (ER)
+> 
+> WTD?
+> ↓prod: "ABBCM"
+> **A**praclonidine, **B**rimonidine, **B**-blocker, **C**arbonic anhydrase (-), **M**annitol
+> 
+> ↑drainage: "LEE"
+> **L**atanoprost, **E**pinephrine, **E**cothiopate
+
+#### d) CNS-activity
+"Do Ri (sa) GaTa"
+
+| DRUGS                                                                  | Classification | MOA                 | Indication                     |
+| ---------------------------------------------------------------------- | -------------- | ------------------- | ------------------------------ |
+| **Donepezil**,<br>**Rivastigmine**,<br>**Galantamine**,<br>**Tacrine** | CNS-activity   | Reversible AChE (-) | Alzheimer's disease (dementia) |
+## D. Antagonists
+### 1. Antimuscarinic 
+#### a) Atropine
+
+| DRUGS    | Classification | MOA | Indication | ADR |
+| -------- | -------------- | --- | ---------- | --- |
+| Atropine |                |     |            |     |
+
+#### b) Centrally-acting
+#### c) Eyes
+#### d) BronchoDILATION
+#### e) Gastrointestinal tract
+
+### 2. Antinicotinic
+#### a) Anti Neuromuscular Junction
+#### b) Anti Ganglionic Blockers
