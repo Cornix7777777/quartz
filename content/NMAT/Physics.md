@@ -131,4 +131,79 @@ into a point on v vs t
 
 ## Rectilinear Motion
 
-  
+**Kinematics**:
+- derived from greek word "kinesis" meaning motion
+
+> [!Info] NOTE
+> In kinematics, we do not account for the external factors that may affect the motion (such as friction)
+
+**Rectilinear Motion**: motion along the straight line
+- Motion w/ constant velocity (uniform motion)
+- Motion with constant acceleration
+
+### Motion with Constant Velocity/Acceleration
+TLDR:
+Formula to use when Constant Velocity:
+$$
+x_{f}=x_{i}+vt
+$$
+Formulas to use/choose from when Constant Acceleration:
+$$
+v_{f}=v_{i}+at
+$$
+$$
+v_{f}^{2}=v_{i}^{2}+2ad^{\rightharpoonup}
+$$
+$$
+d^{\rightharpoonup}=v_{i}t+\frac{1}{2}at^{2}
+$$
+
+> [!info] NOTE
+> Acceleration (a) is (+) if velocity (v) is increasing:
+> Object is ACCELERATING
+> 
+>(a) is (-) if (v) is decreasing: 
+> Object is DECELERATING
+
+### Motion of Falling Objects
+All objects that fall near the surface of the earth experience approximately the same downward gravitational force
+$$
+g = 9.8\frac{m}{s^{2}} \approx 10\frac{m}{s^{2}}
+$$
+g = average gravitational acceleration
+If the effects of air resistance on the object's motion are negligible, the object is said to be in FREE FALL after it is dropped
+
+In free falling bodies, replace:
+ a = g 
+ d⃗ = height
+Therefore:
+$$
+v_{f}=v_{i}+gt
+$$
+$$
+v_{f}^{2}=v_{i}^{2}+2gh
+$$
+$$
+h=v_{i}t+\frac{1}{2}gt^{2}
+$$
+
+> [!info] NOTE
+> Gravitational acceleration (g) is (+) if object is moving downwards
+> 
+>(g) is (-) if object is moving upwards
+
+![[Pasted image 20261021172904.png]]
+### Examples/Problem Solving
+![[Pasted image 20261021172919.png]]
+![[Pasted image 20261021172931.png]]
+![[Pasted image 20261021172944.png]]
+![[Pasted image 20261021172956.png]]
+![[Pasted image 20261021173006.png]]
+![[Pasted image 20261021173028.png]]
+![[Pasted image 20261021173158.png]]
+![[Pasted image 20261021173050.png]]
+![[Pasted image 20261021173100.png]]
+![[Pasted image 20261021173227.png]]
+![[Pasted image 20261021173238.png]]
+![[Pasted image 20261021173247.png]]
+![[Pasted image 20261021173337.png]]
