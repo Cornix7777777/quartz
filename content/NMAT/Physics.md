@@ -18,6 +18,7 @@
 | Final position - initial position,<br>SHORTEST length between object's start and endpoint + direction of motion | TOTAL length of path object traveled |
 | Used to find velocity                                                                                           | Used to find speed                   |
 | Symbol: d⃗ (d with arrow)                                                                                       | Symbol: d                            |
+
 ![[Pasted image 20261021143821.png]]
 
 > [!info] Note
