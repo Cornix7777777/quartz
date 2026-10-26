@@ -365,15 +365,46 @@ DUMBBELSS:
 ### 1. Antimuscarinic 
 #### a) Atropine
 
-| DRUGS    | Classification | MOA | Indication | ADR |
-| -------- | -------------- | --- | ---------- | --- |
-| Atropine |                |     |            |     |
+| DRUGS                                                        | Classification  | MOA                                                                                                                                 | Indication                                                                                | ADR                                                                                  |
+| ------------------------------------------------------------ | --------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| **Atropine**<br>(*Atropa belladona*,<br>"deadly nightshade") | Anti-muscarinic | **Anti m1** (stomach):↓$H^+$ secretion<br>**Anti m2** (heart): vagolytic effect (+ chrono & + dromo)<br>**Anti m3** (Antidiarrheal) | Muscarinic poisoning, Bradycardia, Combined w/ **Diphenoxylate** (to avoid addiction)<br> | Alice in Wonderland effects<br><br>WTD toxicity? Cholinergic agonist <br>"-stigmine" |
+
+> [!info] Alice in Wonderland Effects
+> Blind as a bat (Mydriasis, blurring of vision),
+> Dry as a bone (Anhydrosis/NO sweat),
+> Hot as a hare "atropine fever" (Hyperthermia),
+> Red as a beet (Cutaneous vasodilation: flushing/erythema),
+> Mad as a hatter (Neurologic symptoms)
 
 #### b) Centrally-acting
-#### c) Eyes
-#### d) BronchoDILATION
-#### e) Gastrointestinal tract
+| DRUGS                                                     | Classification                      | MOA         | Indication                                                                                                                                                     | ADR |
+| --------------------------------------------------------- | ----------------------------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| **Scopolamine**<br>(*Hyoscyamus niger*)                   |                                     |             | Twilight sleep (part of obstetric anesthesia), Motion sickness                                                                                                 |     |
+| **Benztropine**,<br>**Biperiden**,<br>**Trihexiphenidyl** | Anti- EPS (extrapyramidal symptoms) |             | Parkinson's Disease<br><br>Symptoms: "TRAPS"<br><br>**T**remors<br>**R**igidity<br>**A**kinesia (can't move)<br>**P**ostural instability<br>**S**huffling gait |     |
 
+#### c) Eyes
+| DRUGS                                                                       | Classification         | MOA | Indication       | ADR                                                                                                        |
+| --------------------------------------------------------------------------- | ---------------------- | --- | ---------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Cyclopentolate**,<br>**Homatropine**,<br>**Atropine**,<br>**Tropicamide** | Mydriatic, cycloplegic |     | Eye examinations | Blurring of vision<br>WTD? replace w/ **Phenylephrine** (a1 agonist)<br><br>Avoid in closed angle glaucoma |
+#### d) BronchoDILATION
+| DRUGS                                                                                       | Classification | MOA             | Indication                           | ADR |
+| ------------------------------------------------------------------------------------------- | -------------- | --------------- | ------------------------------------ | --- |
+| **Ipratropium**,<br>**Oxytropium**                                                          | SAMA           | Bronchodilation | Alt reliever for asthma exacerbation |     |
+| **Umeclidinium**,<br>**Glycopyrronium**,<br>**Aclinidium**,<br>**Tiotropium** (Spiriva)<br> | LAMA           | Bronchodilation | Controller in COPD                   |     |
+#### e) Gastrointestinal tract
+| DRUGS                                           | Classification         | MOA         | Indication                                  | ADR |
+| ----------------------------------------------- | ---------------------- | ----------- | ------------------------------------------- | --- |
+| **Pirenzepine**,<br>**Talenzepine**             | Gastrointestinal tract | m1 blockers | Hyperacidity                                |     |
+| **HNBB**/**Hyoscine-N-butylbromide** (Buscopan) | Gastrointestinal tract | m3 blockers | Abdominal spasms, promote cervical dilation |     |
 ### 2. Antinicotinic
 #### a) Anti Neuromuscular Junction
+| DRUGS                                                                                                                             | Classification                                                                        | MOA                                                                                                | Indication                              | ADR                                                                                                                                                          |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Steroidal: "*-curonium*"<br>**Pancuronium**,<br>**Rocuronium**<br><br>Isoquinoline: "*-curium*"<br>**Atracurium**, **Mivacurium** | "*NCR are -curare*"<br><br>**NONdep**olarizing,<br>**C**ompetative,<br>**R**eversible | NONdepolarizing                                                                                    | Skeletal muscle relaxant during surgery | Laudanosine (**Atracurium**):<br>Seizures, anaphylactoid <br>WTD? replace w/ **Cistracurium**<br><br>Muscle paralysis:<br>Curare toxicity tx: **Sugammadex** |
+| **Succinylcholine**/<br>**Suxamethonium**                                                                                         | "DIN sux"<br><br>**D**epolarizing,<br>**I**onizing,<br>**NONcomp**etative             | Depolarizing<br><br>Phase 1: initial ↑contraction<br><br>Phase 2: Desensitization = NO contraction | Skeletal muscle relaxant during surgery | Rhabdomyolysis (hyperkalemia, myoglobin leak: acute kidney injury)<br><br>Muscle paralysis (diaphragmatic)<br><br>Malignant hyperthermia (tx **Dantrolene**) |
 #### b) Anti Ganglionic Blockers
+
+| DRUGS                                                      | Classification                              | MOA | Indication | ADR |
+| ---------------------------------------------------------- | ------------------------------------------- | --- | ---------- | --- |
+| **Hexamethonium**,<br>**Mecamylamine**,<br>**Trimetaphan** | Nonspecific effect, depends on target organ |     |            |     |
+|                                                            |                                             |     |            |     |
